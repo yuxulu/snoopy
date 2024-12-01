@@ -1,7 +1,7 @@
-## SNOOPY
+# SNOOPY
 
 ---------------
-# Table of Contents
+## Table of Contents
 
 1. [Post-Exploitation](#post-exploitation)
 2. [Port Enumeration](#port-enumeration)
