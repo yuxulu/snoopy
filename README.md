@@ -1,4 +1,4 @@
-# OSINT Switzerland - CTF Challenge
+# OSINT Switzerland - CTF Challenge Log Journal
 
 ## DAY 1 - Big Bang
 - Given Evidence.png file
