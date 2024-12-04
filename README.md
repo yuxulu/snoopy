@@ -24,3 +24,12 @@
 - From previous research I located a wall of photos
 - Found the descripted details the challenge was requesting
 - Completed challenge.
+
+## DAY 4 - The Birthday
+- Given Day4_Letter.png file
+- Utilized google search to associate hints from zodiac signs to birth months
+- Researched major accidental events as the hint procided that were in correlation with said birth months on line 30
+- Submitted Chernobyl date minus 10 (as given the hint)
+- Completed challenge.
+
+
