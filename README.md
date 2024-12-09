@@ -38,16 +38,22 @@
 - Google searched the related info and found the flag
 - Completed challenge.
 
-- ## DAY 6 - Say Cheese
+## DAY 6 - Say Cheese
 - Utilized info on a photo dated December 25, 2021 on SirkusFinlandia instagram
 - Located photo, found the flag
 - Completed challenge.
 
-- ## DAY 7 - Revealing Pixels
+## DAY 7 - Revealing Pixels
 - Given Day7_Letter.png
 - Utilized info on account on X related to political parody of sirkusfinlandia
 - Request for flag was related to pfp, located pfp, utilized pfp downloader tool online to find full image.
 - Downloaded pfp and reverse image searched it on Bing (larger repo for facial recog)
 - Found related image with no parody editing, translated persons name out of subtitle line
 - Searched the last name and found wiki page with full name
+- Completed challenge.
+
+ ## DAY 8 - Connecting the Dots
+- Given Day8_Letter.png
+- Utilized X to locate a specific given hashtag
+- Found the results needed under the 'latest' tide
 - Completed challenge.
