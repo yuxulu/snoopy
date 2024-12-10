@@ -52,8 +52,16 @@
 - Searched the last name and found wiki page with full name
 - Completed challenge.
 
- ## DAY 8 - Connecting the Dots
+## DAY 8 - Connecting the Dots
 - Given Day8_Letter.png
 - Utilized X to locate a specific given hashtag
 - Found the results needed under the 'latest' tide
+- Completed challenge.
+
+## DAY 9 - 404 Not Found
+- Given Day9_screen.png
+- Upon a lot of research I learned of the "What 3 Words" encryption method for locations
+- Utilized What3words.com for the variable "luggage.octane.width"
+- Compared the results along with google earth
+- Located Area 51
 - Completed challenge.
